@@ -1,12 +1,17 @@
 <template>
   <section class="recipes">
       <article class="recipe">
-       <div></div>
+       <div class="thumbnail" style="background-image: url('https://assets-a1.kompasiana.com/items/album/2019/10/31/computer-by-indiamart-5dba4523d541df2c7334a0a2.png')"></div>
        <h1>Title</h1>
         <p>Some nice preview text</p>
       </article>
       <article class="recipe">
-       <div></div>
+       <div class="thumbnail" style="background-image: url('https://assets-a1.kompasiana.com/items/album/2019/10/31/computer-by-indiamart-5dba4523d541df2c7334a0a2.png')"></div>
+       <h1>Title</h1>
+        <p>Some nice preview text</p>
+      </article>
+      <article class="recipe">
+        <div class="thumbnail" style="background-image: url('https://assets-a1.kompasiana.com/items/album/2019/10/31/computer-by-indiamart-5dba4523d541df2c7334a0a2.png')"></div>
        <h1>Title</h1>
         <p>Some nice preview text</p>
       </article>
