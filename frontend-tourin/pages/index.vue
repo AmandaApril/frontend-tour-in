@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <p>Data Tourin</p>
 </template>
 
 <script>
