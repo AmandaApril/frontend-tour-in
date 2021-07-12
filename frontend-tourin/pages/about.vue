@@ -35,6 +35,13 @@ export default {}
     border: 1px solid #ccc;
     box-shadow: 0 2px 2px #aaa;
 }
+
+.thumbnail{
+    background-position: center;
+    background-size: cover;
+    width: 100px;
+    height: 200px;
+}
 </style>>
 
 
