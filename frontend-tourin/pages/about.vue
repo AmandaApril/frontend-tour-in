@@ -40,8 +40,8 @@ export default {}
 .thumbnail{
     background-position: center;
     background-size: cover;
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 260px;
 }
 </style>>
 
