@@ -39,7 +39,7 @@ export default {}
 .thumbnail{
     background-position: center;
     background-size: cover;
-    width: 100px;
+    width: 200px;
     height: 200px;
 }
 </style>>
